@@ -6,3 +6,6 @@ Server or Cloud Mining utilizing the process of cryptocurrency mining in a remot
 
 ### Documentation Examples
 https://www.analyticsvidhya.com/blog/2021/05/how-to-mine-bitcoin-using-python-part-i/
+
+### Code Examples
+https://github.com/0rtis/mochimo-farm-manager
