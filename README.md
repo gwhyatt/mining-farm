@@ -5,6 +5,7 @@ Server or Cloud Mining utilizing the process of cryptocurrency mining in a remot
 * Cost would stem from monthly cost of server useage, power consumption, drive replacement, and other factors (if not in Cloud )
 
 ### Documentation Examples
+https://www.genesis-mining.com/how-to-mine-bitcoin
 https://www.analyticsvidhya.com/blog/2021/05/how-to-mine-bitcoin-using-python-part-i/
 
 ### Code Examples
